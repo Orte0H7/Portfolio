@@ -40,10 +40,11 @@ function AboutImage(): JSX.Element {
         className="rounded-xl"
         height={1080}
         placeholder="blur"
-        src="https://source.unsplash.com/random/?web+developer"
+        src="../public/assets/cyberpunk.png"
         width={1920}
       />
     </div>
+
   );
 }
 
