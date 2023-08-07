@@ -36,15 +36,14 @@ function AboutImage(): JSX.Element {
     <div className="w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
       <Image
         alt="/"
-        blurDataURL="../public/assets/navbarLogo.png"
+        blurDataURL="/assets/navbarLogo.png"
         className="rounded-xl"
         height={1080}
         placeholder="blur"
-        src="../public/assets/cyberpunk.png"
+        src="/assets/projects/cyberpunk.png"
         width={1920}
       />
     </div>
-
   );
 }
 
