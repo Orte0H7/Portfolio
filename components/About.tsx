@@ -23,7 +23,7 @@ function AboutText(): JSX.Element {
       </p>
       <Link href="/#projects" scroll={false}>
         <p className="py-2 text-gray-600 underline cursor-pointer">
-          Click to see my favorite projects.
+          Click to some of my favorite projects.
         </p>
       </Link>
     </div>
