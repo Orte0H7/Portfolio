@@ -20,7 +20,7 @@ export default function Home() {
           content="My Web Developer Portfolio site, Jagdeep Singh"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title> Jagdeep Singh Portfolio</title>
+        <title> Hector M Ortega Portfolio</title>
       </Head>
       <Hero />
       <About />
