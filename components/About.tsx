@@ -40,7 +40,7 @@ function AboutImage(): JSX.Element {
         className="rounded-xl"
         height={1080}
         placeholder="blur"
-        src="/assets/projects/cyberpunk.png"
+        src="/assets/Samurai.jpeg"
         width={1920}
       />
     </div>
