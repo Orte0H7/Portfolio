@@ -17,7 +17,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="My Web Developer Portfolio site, Jagdeep Singh"
+          content="My Web Developer Portfolio site, Hector M Ortega"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title> Hector M Ortega Portfolio</title>

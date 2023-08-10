@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedinIn, FaTwitter } from "react-icons/fa";
 export const heroData = [
   {
     label: "github",
-    href: "https://github.com/itsjagdeep",
+    href: "https://github.com/Orte0H7",
     style:
       "rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300",
     icon: <FaGithub />,
